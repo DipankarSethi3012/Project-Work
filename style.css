@@ -1,0 +1,26 @@
+body{
+    font-family: cursive;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    text-align: justify;
+
+}
+.containor h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.img{
+    height: 500px;
+    width: 800px;
+    box-sizing: border-box;
+    margin-left: 300px;
+    border: 2px solid black;
+}
+.form input{ 
+    margin: 2px;
+    font-family: cursive;
+}
+.heading{
+    text-decoration: underline;
+}
